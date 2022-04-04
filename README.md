@@ -3,7 +3,7 @@
 "Surviving" is a simulation game modified version of Conway's Game of Life.
 
 main rule: 
-1. If there is supply non-live cell becomes a live if he has at least 1 neighbor and dies if there more than 4 heighbors
+1. If there is supply, non-live cell becomes a live if he has at least 1 neighbor and dies if there more than 4 heighbors
 2. In case when there is no supply cell dies and becomes a live according Game of lives rule: "Any live cell with two or three live neighbours survives. Any dead cell with three live neighbours becomes a live cell. All other live cells die in the next generation. Similarly, all other dead cells stay dead."
 3. After each 30 steps "supplies" are re-spawning
 
